@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @FfinguMpingo
-- 👀 I’m interested in learning all things Swift
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on nature-related NFTs
+- 👀 Interested in learning all things Swift
+- 🌱 Always learning more SwiftUI
+- 💞️ Looking to collaborate on nature-related NFTs and Web3 projects
 - 📫 How to reach me ... @mpingotinyhouse on IG
 
 <!---
